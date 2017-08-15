@@ -1,6 +1,6 @@
-1. 
+1. Go to dojo.soy/trinket-challenge and click Remix. You will need to be signed in to Trinket.
 
-2. Click on *styles.css*. There you can see what colours are defined for the website. The text colour is `color` and the background is `background-color`. Change the values to colours that you like. For a list of colour names you can use, see dojo.soy/html-colours
+2. Go to the tab *styles.css*. There you can see what colours are defined for the website. The text colour is `color` and the background is `background-color`. Change the values to colours that you like. For a list of colour names you can use, see dojo.soy/html-colours
 
 3. For the next step you’ll need a picture of a zoo animal that you like. It needs to be saved on your computer. If you don’t have one handy, you can search the internet and download a picture, or even draw one.
 
