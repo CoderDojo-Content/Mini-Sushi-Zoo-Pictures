@@ -41,7 +41,7 @@
 
 10. You just turned your picture into a link! You should be able to click on the picture now and see the page about that animal.
 
-11. On a new line underneath your image and link code, write some more code to show another picture that links to another new page. Don’t forget to upload a file for your picture! Do as many as you like. What animals are in your zoo?
+11. On a new line underneath your image and link code, write some more code to show another picture that links to another new page. Don’t forget to upload a file for your picture and create a new page! Do as many as you like. What animals are in your zoo?
 
 12. Don't forget to click on **Save** every now and again to make sure you don't lose any of your work.
 
