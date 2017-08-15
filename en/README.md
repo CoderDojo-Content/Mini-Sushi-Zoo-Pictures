@@ -34,7 +34,6 @@
 
 15. On a new line underneath your image and link code, write some more code to show another picture that links to another new page. Don’t forget to upload a file for your picture! Do as many as you like! What animals are in your zoo?
 
-{% callout %}To learn how to do more with your website and earn yourself a digital badge, visit dojo.soy/begin-html-sushi and try the Beginner HTML CSS Sushi cards!
-{% endcallout %}
+
 
 
