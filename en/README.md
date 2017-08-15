@@ -1,4 +1,4 @@
-1. Go to dojo.soy/trinket-challenge and click Remix. You will need to be signed in to Trinket.
+1. Go to dojo.soy/trinket-challenge and click Remix. You will need to be signed in to Trinket. Remember to hit the Save button whenever you make changes!
 
 2. Go to the tab _styles.css_. There you can see what colours are defined for the website. The text colour is `color` and the background is `background-color`. Change the values to colours that you like. For a list of colour names you can use, see dojo.soy/html-colours
 
@@ -13,8 +13,8 @@
         <img src="lions.jpg" />
    ```
 
-   * Change “lions.jpg” to the filename of your picture. It must match the file name exactly. The picture should appear on your page when you click Run.
-6. If you want to change the size of your picture, go to **styles.css** and change the number after `width`. If you delete any of the other letters or symbols, be sure to type them back in! It should look like this: `width: 150px;`
+   * Change “lions.jpg” to the filename of your picture. It must match the file name exactly. The picture should appear on your page.
+6. If you want to change the size of your picture, go to **styles.css** and change the number after `width`. If you delete any of the other letters or symbols, be sure to type them back in! It should look like this: `width: 450px;`
 
 6. Let’s turn it into a link that takes you to a page all about the animal! First, create a new page: click the **+** next to the image icon and type **lion.html** where it says “file name”.
    * Change it to whatever animal you have, but be sure the name ends in **.html** as this is what makes it a **web page**.
@@ -39,9 +39,9 @@
 
    Change **lion.html** to the name of the new page you created.
 
-10. Now when you click run, you should be able to click on the picture and see the page about that animal.
+10. You should be able to click on the picture now and see the page about that animal!
 
-11. On a new line underneath your image and link code, write some more code to show another picture that links to another new page. Don’t forget to upload a file for your picture! Do as many as you like! What animals are in your zoo?
+11. On a new line underneath your image and link code, write some more code to show another picture that links to another new page. Don’t forget to upload a file for your picture! Do as many as you like. What animals are in your zoo?
 
 {% callout %}To learn how to do more with your website and earn yourself a digital badge, visit dojo.soy/begin-html-sushi and try the Beginner HTML CSS Sushi cards!
 {% endcallout %}
