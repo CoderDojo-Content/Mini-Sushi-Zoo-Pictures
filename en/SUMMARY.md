@@ -1,5 +1,4 @@
-#Summary
+# Summary
 
-* [Getting Setup](README.md)
-
+* [Internet Zoo](README.md)
 
