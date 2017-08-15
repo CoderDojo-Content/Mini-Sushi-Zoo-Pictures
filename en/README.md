@@ -10,7 +10,7 @@
 5. Now click on the index.html tab, and add the following line of code on a new line after the last `</p>` tag.
 
    ```html
-        <img src="lions-1660044_640.jpg" />
+        <img src="lions.jpg" />
    ```
 
    * Change “lions.jpg” to the filename of your picture. It must match the file name exactly. The picture should appear on your page when you click Run.
