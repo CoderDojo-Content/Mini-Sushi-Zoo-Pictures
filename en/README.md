@@ -14,8 +14,10 @@
    ```
 
    * Change “lions.jpg” to the filename of your picture. It must match the file name exactly. The picture should appear on your page when you click Run.
+6. If you want to change the size of your picture, go to **styles.css** and change the number after `width`. Make sure not to delete the `px;` after it, for example it should like like: `width: 150px;`
 
-6. Let’s turn it into a link that takes you to a page all about the animal! First, create a new page: click the plus and type **lion.html** where it says “file name”. Change it to whatever animal you have, but be sure the name ends in **.html** as this is what makes it a **web page**.
+6. Let’s turn it into a link that takes you to a page all about the animal! First, create a new page: click the **+** next to the image icon and type **lion.html** where it says “file name”.
+   * Change it to whatever animal you have, but be sure the name ends in **.html** as this is what makes it a **web page**.
 
 7. Go to the file _blank\_page.html_. There you'll see all the code you need for a blank page. Copy that into your new file.
 
@@ -40,6 +42,10 @@
 10. Now when you click run, you should be able to click on the picture and see the page about that animal.
 
 11. On a new line underneath your image and link code, write some more code to show another picture that links to another new page. Don’t forget to upload a file for your picture! Do as many as you like! What animals are in your zoo?
+
+{% callout %}To learn how to do more with your website and earn yourself a digital badge, visit dojo.soy/begin-html-sushi and try the Beginner HTML CSS Sushi cards!
+{% endcallout %}
+
 
 
 
