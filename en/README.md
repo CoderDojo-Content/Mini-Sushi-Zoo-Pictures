@@ -4,7 +4,8 @@
 
 3. For the next step you’ll need a picture of a zoo animal that you like. It needs to be saved on your computer. If you don’t have one handy, you can search the internet and download a picture, or even draw one.
 
-4. Click the image icon to the right of the tabs, then **Add Image**, then **Upload**, then **Click To Select Files**. Find the picture file on your computer, select it and click Open. Click **Done**. ![](TktImageIcon.png)
+4. Click the image icon to the right of the tabs, then **Add Image**, then **Upload**, then **Click To Select Files**. Find the picture file on your computer, select it and click Open. Click **Done**. 
+    ![](TktImageIcon.png)
 
 6. Now click on the index.html tab, and add the following line of code on a new line after the last `</p>` tag.
     ```html
