@@ -1,13 +1,15 @@
-1. Go to dojo.soy/trinket-challenge and click Remix. You will need to be signed in to Trinket. Remember to hit the Save button whenever you make changes!
+1. Go to dojo.soy/trinket-challenge and click Remix. You will need to be signed in to Trinket. After you've clicked Remix, click the **Save** button.
 
-2. Go to the tab _styles.css_. There you can see what colours are defined for the website. The text colour is `color` and the background is `background-color`. Change the values to colours that you like. For a list of colour names you can use, see dojo.soy/html-colours
+2. Click on your username at the top right of the screen and select **My Trinkets**. Find the project you just created, called "WebPictures Remix", and click to open it.
+
+2. In the **code pane** go to the tab _styles.css_. There you can see what colours are defined for the website. The text colour is `color` and the background is `background-color`. Change the values to colours that you like. For a list of colour names you can use, see dojo.soy/html-colours
 
 3. For the next step you’ll need a picture of a zoo animal that you like. It needs to be saved on your computer. If you don’t have one handy, you can search the internet and download a picture, or even draw one.
 
-4. Click the image icon to the right of the tabs, then **Add Image**, then **Upload**, then **Click To Select Files**. Find the picture file on your computer, select it and click Open. Click **Done**.   
+4. Click the image icon to the right of the code tabs, then **Add Image**, then **Upload**, then **Click To Select Files**. Find the picture file on your computer, select it and click **Open**. Click **Done**.   
     ![](TktImageIcon.png)
 
-5. Now click on the index.html tab, and add the following line of code on a new line after the last `</p>` tag.
+5. Now click on the *index.html* tab, and add the following line of code on a new line after the last `</p>` tag.
 
    ```html
         <img src="lions.jpg" />
@@ -16,7 +18,7 @@
    * Change “lions.jpg” to the filename of your picture. It must match the file name exactly. The picture should appear on your page.
 6. If you want to change the size of your picture, go to **styles.css** and change the number after `width`. If you delete any of the other letters or symbols, be sure to type them back in! It should look like this: `width: 450px;`
 
-6. Let’s turn it into a link that takes you to a page all about the animal! First, create a new page: click the **+** next to the image icon and type **lion.html** where it says “file name”.
+6. Let’s turn it into a link that takes you to a page all about the animal! First, create a new page: click the **+** next to the image icon and type _lion.html_ where it says _file name_.
    * Change it to whatever animal you have, but be sure the name ends in **.html** as this is what makes it a **web page**.
 
 7. Go to the file _blank\_page.html_. There you'll see all the code you need for a blank page. Copy that into your new file.
@@ -26,12 +28,10 @@
    ```html
        <p>This page is all about lions!!!!</p>
    ```
-
    You can add as many paragraphs like this as you want.
-
    * Can you add pictures too?
 
-9. Go back to index.html. To turn your picture into a link you need to put it in between a pair of `<a></a>` tags, like this:
+9. Go back to _index.html_. Find your image code and put it in between a pair of `<a></a>` tags like this:
 
    ```html
        <a href="lion.html"><img src="lions.jpg" /></a>
@@ -39,7 +39,7 @@
 
    Change **lion.html** to the name of the new page you created.
 
-10. You should be able to click on the picture now and see the page about that animal!
+10. You just turned your picture into a link! You should be able to click on the picture now and see the page about that animal.
 
 11. On a new line underneath your image and link code, write some more code to show another picture that links to another new page. Don’t forget to upload a file for your picture! Do as many as you like. What animals are in your zoo?
 
