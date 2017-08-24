@@ -25,7 +25,6 @@
 
 8. To add a paragraph of text, click in the blank space between the`<main></main>`tags and type `<p></p>`. Type your text in between the tags, like this: `<p>This page is all about lions!!!!</p>`. You can add as many paragraphs like this as you want.
    * Can you add pictures too?
-   ![](TktZooExample.png)
 
 9. Go back to _index.html_. Find your image code and put it in between a pair of `<a></a>` tags like this:
 
