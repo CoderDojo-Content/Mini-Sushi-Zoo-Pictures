@@ -23,13 +23,33 @@
 
 7. Go to the file _blank\_page.html_. There you'll see all the code you need for a blank page. Copy that into your new file.
 
-8. To add a paragraph of text, click in the blank space between the`<main></main>`tags and type `<p></p>`. Type your text in between the tags, like this:
-
-   ```html
-       <p>This page is all about lions!!!!</p>
-   ```
-   You can add as many paragraphs like this as you want.
+8. To add a paragraph of text, click in the blank space between the`<main></main>`tags and type `<p></p>`. Type your text in between the tags, like this: `<p>This page is all about lions!!!!</p>`. You can add as many paragraphs like this as you want.
    * Can you add pictures too?
+   ```html
+      <!DOCTYPE html>
+         <html>
+         	<head>
+         		<title>Picture Click</title>
+         		<link type="text/css" rel="stylesheet" href="styles.css"/>
+         		<meta charset="utf-8"/>
+         	</head>
+         	<body>
+         	  <header>
+         	    
+         	  </header>
+         	  <main>
+         	    
+         	    <p>
+         	      This page is all about lions!!!!
+         	    </p>
+         	    
+         	  </main>
+         	  <footer>
+         	    
+         	  </footer>
+         	</body>
+         </html>
+   ```
 
 9. Go back to _index.html_. Find your image code and put it in between a pair of `<a></a>` tags like this:
 
