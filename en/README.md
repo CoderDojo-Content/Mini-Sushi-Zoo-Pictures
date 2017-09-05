@@ -2,7 +2,7 @@
 
 2. Click on your username at the top right of the screen and select **My Trinkets**. Find the project you just created, called "WebPictures Remix", and click to open it.
 
-3. In the **code pane** go to the tab _styles.css_. There you can see what colours are defined for the website. The text colour is `color` and the background is `background-color`. Change the values to colours that you like. For a list of colour names you can use, see dojo.soy/mini-html-colours
+3. In the **code pane** go to the tab _styles.css_. There you can see what colours are defined for the website. The text colour is `color` and the background is `background-color`. Change the values to colours that you like. For a list of colour names you can use, see [dojo.soy/mini-web-colours](http://dojo.soy/mini-web-colours).
 
 4. For the next step you’ll need a picture of a zoo animal that you like. It needs to be saved on your computer. If you don’t have one handy, you can search the internet and download a picture, or even draw one.
 
