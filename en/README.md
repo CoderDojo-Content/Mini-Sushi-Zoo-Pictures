@@ -38,7 +38,6 @@
    ```html
        <a href="lion.html"><img src="lions.jpg" /></a>
    ```
-
    Change **lion.html** to the name of the new page you created.
 
 11. You just turned your picture into a link! You should be able to click on the picture now and see the page about that animal.
