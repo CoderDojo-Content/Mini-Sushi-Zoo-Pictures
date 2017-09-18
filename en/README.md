@@ -1,4 +1,4 @@
-1. THIS IS A TEST!!!! Go to [dojo.soy/mini-trinket](http://dojo.soy/mini-trinket) and click Remix. You will need to be signed in to Trinket. After you've clicked Remix, click the **Save** button.
+1. Go to [dojo.soy/mini-trinket](http://dojo.soy/mini-trinket) and click Remix. You will need to be signed in to Trinket. After you've clicked Remix, click the **Save** button.
 
 2. Click on your username at the top right of the screen and select **My Trinkets**. Find the project you just created, called "WebPictures Remix", and click to open it.
 
@@ -47,7 +47,8 @@
 14. Don't forget to click on **Save** every now and again to make sure you don't lose any of your work.
 ![](TktZooExample.png)
 
-![](whitespace_100_800.png) 
+![](whitespace_50_800.png) 
+![](whitespace_80_800.png) 
  
 {% callout %}To learn how to do more with your website and earn yourself a digital badge, visit dojo.soy/mini-html-begin and try the Beginner HTML CSS Sushi cards!
 {% endcallout %}
