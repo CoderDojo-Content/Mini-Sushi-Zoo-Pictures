@@ -26,14 +26,14 @@
    Change the number after `width`. If you delete any of the other letters or symbols, be sure to type them back in! It should look like this: `width: 450px;`
 
 8. Let’s turn it into a link that takes you to a page all about the animal! First, create a new page: click the **+** next to the image icon and type _lion.html_ where it says _file name_.
-   * Change it to whatever animal you have, but be sure the name ends in **.html** as this is what makes it a **web page**.
+   * You can change it to whatever animal you have, but be sure the name ends in **.html** as this is what makes it a **web page**.
 
 9. Go to the file _blank\_page.html_. There you'll see all the code you need for a blank page. Copy that into your new file.
 
-8. To add a paragraph of text, click in the blank space between the`<main></main>`tags and type `<p></p>`. Type your text in between the tags, like this: `<p>This page is all about lions!!!!</p>`. You can add as many paragraphs like this as you want.
+10. To add a paragraph of text, click in the blank space between the`<main></main>`tags and type `<p></p>`. Type your text in between the tags, like this: `<p>This page is all about lions!!!!</p>`. You can add as many paragraphs like this as you want.
    * Can you add pictures too?
 
-10. Go back to _index.html_. Find your image code and put it in between a pair of `<a></a>` tags like this:
+11. Go back to _index.html_. Find your image code and put it in between a pair of `<a></a>` tags like this:
 
    ```html
        <a href="lion.html"><img src="lions.jpg" /></a>
