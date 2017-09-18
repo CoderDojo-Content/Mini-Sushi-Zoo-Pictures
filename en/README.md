@@ -40,11 +40,11 @@
    ```
    Change **lion.html** to the name of the new page you created.
 
-11. You just turned your picture into a link! You should be able to click on the picture now and see the page about that animal.
+12. You just turned your picture into a link! You should be able to click on the picture now and see the page about that animal.
 
-12. On a new line underneath your image and link code, write some more code to show another picture that links to another new page. Don’t forget to upload a file for your picture and create a new page! Do as many as you like. What animals are in your zoo?
+13. On a new line underneath your image and link code, write some more code to show another picture that links to another new page. Don’t forget to upload a file for your picture and create a new page! Do as many as you like. What animals are in your zoo?
 
-13. Don't forget to click on **Save** every now and again to make sure you don't lose any of your work.
+14. Don't forget to click on **Save** every now and again to make sure you don't lose any of your work.
 ![](TktZooExample.png)
 
 ![](whitespace_100_800.png) 
