@@ -1,4 +1,4 @@
-1. THIS IS A TEST!!!!! Go to [dojo.soy/mini-trinket](http://dojo.soy/mini-trinket) and click Remix. You will need to be signed in to Trinket. After you've clicked Remix, click the **Save** button.
+1. THIS IS A TEST!!!! Go to [dojo.soy/mini-trinket](http://dojo.soy/mini-trinket) and click Remix. You will need to be signed in to Trinket. After you've clicked Remix, click the **Save** button.
 
 2. Click on your username at the top right of the screen and select **My Trinkets**. Find the project you just created, called "WebPictures Remix", and click to open it.
 
