@@ -16,7 +16,14 @@
    ```
 
    * Change “lions.jpg” to the filename of your picture. It must match the file name exactly. The picture should appear on your page.
-7. If you want to change the size of your picture, go to **styles.css** and change the number after `width`. If you delete any of the other letters or symbols, be sure to type them back in! It should look like this: `width: 450px;`
+   
+7. If you want to change the size of your picture, go to **styles.css**. The rules for pictures are in the `img` block:
+   ```css
+      img {
+        width: 200px;
+      }
+   ``` 
+   Change the number after `width`. If you delete any of the other letters or symbols, be sure to type them back in! It should look like this: `width: 450px;`
 
 8. Let’s turn it into a link that takes you to a page all about the animal! First, create a new page: click the **+** next to the image icon and type _lion.html_ where it says _file name_.
    * Change it to whatever animal you have, but be sure the name ends in **.html** as this is what makes it a **web page**.
