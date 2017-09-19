@@ -44,11 +44,11 @@
 
 13. On a new line underneath your image and link code, write some more code to show another picture that links to another new page. Don’t forget to upload a file for your picture and create a new page! Add as many pictures and pages as you like. What animals are in your zoo?
 
-14. Don't forget to click on **Save** every now and again to make sure you don't lose any of your work. ![](whitespace_50_800.png)![](TktZooExample.png) 
+14. Don't forget to click on **Save** every now and again to make sure you don't lose any of your work. ![](whitespace_65_800.png)![](TktZooExample.png) 
 
 
 
-![](whitespace_80_800.png)
+![](whitespace_60_800.png)
  
 {% callout %}To learn how to do more with your website and earn yourself a digital badge, visit dojo.soy/mini-html-begin and try the Beginner HTML CSS Sushi cards!
 {% endcallout %}
