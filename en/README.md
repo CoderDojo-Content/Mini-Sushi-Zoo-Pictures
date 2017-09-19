@@ -44,7 +44,8 @@
 
 13. On a new line underneath your image and link code, write some more code to show another picture that links to another new page. Don’t forget to upload a file for your picture and create a new page! Add as many pictures and pages as you like. What animals are in your zoo?
 
-14. Don't forget to click on **Save** every now and again to make sure you don't lose any of your work. ![](TktZooExample.png) ![](whitespace_50_800.png)
+14. Don't forget to click on **Save** every now and again to make sure you don't lose any of your work. ![](TktZooExample.png) 
+![](whitespace_50_800.png)
 
 
 ![](whitespace_70_800.png)
