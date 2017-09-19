@@ -46,7 +46,7 @@
 
 14. Don't forget to click on **Save** every now and again to make sure you don't lose any of your work. ![](whitespace_65_800.png)![](TktZooExample.png) ![](whitespace_65_800.png)
  
-{% callout %}To learn how to do more with your website and earn yourself a digital badge, visit >>> dojo.soy/mini-html-begin and try the Beginner HTML CSS Sushi cards! To see this card online or print out more, go to >>> dojo.soy/mini-sushi-html 
+{% callout %}To learn how to do more with your website and earn yourself a digital badge, visit <b>dojo.soy/mini-html-begin</b> and try the Beginner HTML CSS Sushi cards! To see this card online or print out more, go to <b>dojo.soy/mini-sushi-html</b> 
 {% endcallout %}
 
 
