@@ -1,8 +1,8 @@
-1. Go to [dojo.soy/mini-trinket](http://dojo.soy/mini-trinket) and click Remix. You will need to be signed in to Trinket. After you've clicked Remix, click the **Save** button.
+1. Go to [dojo.soy/mini-trinket](http://dojo.soy/mini-trinket) and click **Remix**. You will need to be signed in to Trinket. After you've clicked **Remix**, click the **Save** button.
 
 2. Click on your username at the top right of the screen and select **My Trinkets**. Find the project you just created, called "WebPictures Remix", and click to open it.
 
-3. In the **code pane** go to the tab _styles.css_. There you can see what colours are defined for the website. The text colour is `color` and the background is `background-color`. Change the values to colours that you like. For a list of colour names you can use, see [dojo.soy/mini-web-colours](http://dojo.soy/mini-web-colours).
+3. In the **code pane** go to the tab _styles.css_. There you can see what colours are in the design of the website. The text colour is `color` and the background is `background-color`. Change the values to colours that you like. For a list of colour names you can use, see [dojo.soy/mini-web-colours](http://dojo.soy/mini-web-colours).
 
 4. For the next step you’ll need a picture of a zoo animal that you like. It needs to be saved on your computer. If you don’t have one handy, you can search the internet and download a picture, or even draw one.
 
@@ -31,7 +31,7 @@
 9. Go to the file _blank\_page.html_. There you'll see all the code you need for a blank page. Copy that into your new file.
 
 10. To add a paragraph of text, click in the blank space between the`<main></main>`tags and type `<p></p>`. Type your text in between the tags, like this: `<p>This page is all about lions!!!!</p>`. You can add as many paragraphs like this as you want.
-   * Can you add pictures too?
+   * You could put some pictures on this page too!
 
 11. Go back to _index.html_. Find your image code and put it in between a pair of `<a></a>` tags like this:
 
@@ -42,7 +42,7 @@
 
 12. You just turned your picture into a link! You should be able to click on the picture now and see the page about that animal.
 
-13. On a new line underneath your image and link code, write some more code to show another picture that links to another new page. Don’t forget to upload a file for your picture and create a new page! Do as many as you like. What animals are in your zoo?
+13. On a new line underneath your image and link code, write some more code to show another picture that links to another new page. Don’t forget to upload a file for your picture and create a new page! Add as many pictures and pages as you like. What animals are in your zoo?
 
 14. Don't forget to click on **Save** every now and again to make sure you don't lose any of your work.
 ![](TktZooExample.png)
