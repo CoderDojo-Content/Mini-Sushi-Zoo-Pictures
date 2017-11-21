@@ -1,52 +1,52 @@
-1. In this project you're going to make a zoo website! Go to [dojo.soy/mini-trinket](http://dojo.soy/mini-trinket) and click **Remix**. You will need to be signed in to Trinket. After you've clicked **Remix**, click the **Save** button.
+1. In questo progetto, realizzerai il sito Web di uno zoo! Vai a [dojo.soy/mini-trinket](http://dojo.soy/mini-trinket) e fai clic su **Remix**. Devi essere registrato su Trinket. Dopo aver fatto clic su **Remix**, clicca sul pulsante **Save** (Salva).
 
-2. Click on your username at the top right of the screen and select **My Trinkets**. Find the project you just created, called "WebPictures Remix", and click to open it.
+2. Fai clic sul tuo nome utente riportato sulla parte in alto a destra della schermata e seleziona **My Trinkets** (I miei Trinket). Identifica il progetto appena creato, denominato "WebPictures Remix" e cliccaci sopra per aprirlo.
 
-3. In the **code pane** go to the tab `styles.css`. There you can see what colours will be used on the website. The text colour is `color` and the background colour is `background-color`. Change the values to colours that you like. For a list of colour names you can use, see [dojo.soy/mini-web-colours](http://dojo.soy/mini-web-colours).
+3. Nel **code pane** (pannello del codice), vai alla scheda `styles.css`. Qui vedrai i colori utilizzati per il sito Web. Il colore del testo è rappresentato da `color`, mentre il colore di sfondo è determinato da `background-color`. Modifica i valori per scegliere i colori che preferisci. Per un elenco di nomi di colori da utilizzare, visita [dojo.soy/mini-web-colours](http://dojo.soy/mini-web-colours).
 
-4. For the next step you’ll need a picture of a zoo animal that you like. It needs to be saved on your computer. If you don’t have one handy, you can search the internet and download a picture, or even draw one.
+4. Per la prossima fase, devi avere la foto di un animale dello zoo che ti piace. Deve essere salvata sul computer. Se non ne hai una a disposizione, puoi effettuare una ricerca su Internet e scaricarne una o addirittura disegnarne una tua.
 
-5. Click the image icon to the right of the code tabs, then **Add Image**, then **Upload**, then **Click To Select Files**. Find the picture file on your computer, select it and click **Open**. Click **Done**.   
+5. Fai clic sull’icona delle immagini situata a destra delle schede del codice e quindi su **Add Image** (Aggiungi immagine), **Upload** (Carica) e **Click To Select Files** (Fai clic per selezionare i file). Sul computer trova il file dell’immagine, selezionalo e fai clic su **Open** (Apri). Fai clic su **Done** (Fine).   
     ![](TktImageIcon.png)
 
-6. Now click on the `index.html` tab, and add the following line of code on a new line after the last `</p>` tag.
+6. Adesso, fai clic sulla scheda `index.html` e aggiungi la seguente riga di codice in una nuova riga dopo l’ultimo tag `</p>`.
 
    ```html
         <img src="lions.jpg" />
    ```
 
-   * Change `lions.jpg` to the filename of your picture. It must match the file name exactly. The picture should appear on your page.
+   * Modifica `lions.jpg` con il nome del file della tua immagine. Il nome del file deve essere esattamente lo stesso. L’immagine dovrebbe ora apparire sulla pagina.
    
-7. If you want to change the size of your picture, go to `styles.css`. The rules for pictures are in the `img` block:
+7. Qualora volessi modificare le dimensioni dell’immagine, vai sulla scheda `styles.css`. Le regole per le immagini si trovano nel blocco `img`:
    ```css
       img {
         width: 200px;
       }
    ``` 
-   Change the number after `width`. If you delete any of the other letters or symbols, be sure to type them back in! It should look like this: `width: 450px;`
+   Modifica il numero riportato dopo `width` (larghezza). Nel caso cancellassi delle lettere o simboli, accertati di ridigitarli. Dovrebbe apparire così: `width: 450px;`
 
-8. Let’s turn it into a link that takes you to a page all about the animal! First, create a new page: click the **+** next to the image icon and type `lion.html` where it says **file name**.
-   * You can change it to whatever animal you have, but be sure the name ends in `.html` as this is what makes it a **web page**.
+8. Trasformiamolo in un link che ti porti a una pagina tutta sull’animale in questione! Per prima cosa, crea una pagina nuova: fai clic sul simbolo **+** riportato di fianco all’icona delle immagini e digita `lion.html` dove è indicato il **file name** (nome del file).
+   * Puoi modificarlo con qualsiasi animale, ma assicurati che il nome termini con `.html` in quanto è ciò che lo rende una **web page** (pagina Web).
 
-9. Go to the file `blank_page.html`. There you'll see all the code you need for a blank page. Copy that into your new file.
+9. Vai al file `blank_page.html`. Vedrai il codice che ti serve per una pagina vuota. Copialo nel tuo nuovo file.
 
-10. To add a paragraph of text, click in the blank space between the`<main></main>`tags and type `<p></p>`. Type your text in between the tags, like this: `<p>This page is all about lions!!!!</p>`. You can add as many paragraphs like this as you want.
-   * Try adding some pictures on this page too!
+10. Per aggiungere un paragrafo di testo, fai clic sullo spazio bianco tra i tag `<main></main>` e digita `<p></p>`. Digita il testo tra i tag, nel seguente modo: `<p>Questa pagina è tutta sui leoni!!!!</p>`. Puoi aggiungere quanti paragrafi desideri in questa modalità.
+   * Prova anche ad aggiungere alcune immagini alla pagina!
 
-11. Go back to `index.html`. Find your image code and put it in between a pair of `<a></a>` tags like this:
+11. Torna a `index.html`. Individua il codice dell’immagine e inseriscilo tra la coppia di tag `<a></a>` nel seguente modo:
 
    ```html
        <a href="lion.html"><img src="lions.jpg" /></a>
    ```
-   Change `lion.html` to the name of the new page you created.
+   Modifica `lion.html` con il nome della nuova pagina che hai creato.
 
-12. You just turned your picture into a link! You should be able to click on the picture now and see the page about that animal.
+12. Hai appena trasformato l’immagine in un link! Dovresti riuscire ora a fare clic sull’immagine e a visualizzare la pagina riguardante quell’animale.
 
-13. On a new line underneath your image and link code, write some more code to show another picture that links to another new page. Don’t forget to upload a file for your picture and create a new page! Add as many pictures and pages as you like. What animals are in your zoo?
+13. In una nuova riga al di sotto del codice relativo a immagine e link, scrivi altra sintassi in modo da mostrare un’altra immagine con un link a un’altra pagina nuova. Non dimenticarti di caricare un file per l’immagine e di creare una pagina nuova! Aggiungi tutte le immagini e pagine che desideri. Quali animali si trovano nel tuo zoo?
 
-14. Don't forget to click on **Save** every now and again to make sure you don't lose any of your work. ![](whitespace_65_800.png)![](TktZooExample.png) ![](whitespace_65_800.png)
+14. Non dimenticare ogni tanto di fare clic su **Save** (Salva) per accertarti di non perdere il lavoro creato. ![](whitespace_65_800.png)![](TktZooExample.png) ![](whitespace_65_800.png)
  
-{% callout %}To learn how to do more with your website and earn yourself a digital badge, visit <b>http://dojo.soy/mini-html-begin</b> and try the Beginner HTML CSS <br />Sushi Cards! To see this card online or print out more, go to <b>http://dojo.soy/mini-sushi-html</b> 
+{% callout %}Per imparare cos’altro puoi realizzare con il tuo sito Web e guadagnarti un adesivo digitale, visita <b>http://dojo.soy/mini-html-begin</b> e prova le Sushi Card per principianti di linguaggio HTML e CSS<br />! Per visualizzare questa scheda online o per stamparne altre, visita <b>http://dojo.soy/mini-sushi-html</b> 
 {% endcallout %}
 
 
