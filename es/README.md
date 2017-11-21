@@ -44,9 +44,9 @@
 
 13. En una nueva línea debajo de tu imagen y el código del enlace, escribe más códigos para que muestren otra imagen que lleve a nueva página. ¡No te olvides de cargar un archivo para tu imagen y crear una nueva página! Añades tantas imágenes y páginas como quieras. ¿Qué animales hay en tu zoo?
 
-14. No te olvides de hacer clic en **Save** de vez en cuando para asegurarte de que no pierdes tu trabajo. ![](TktZooExample.png)
+14. No te olvides de hacer clic en **Save** de vez en cuando para asegurarte de que no pierdes tu trabajo. ![](TktZooExample.png) ![](whitespace_20_800.png)
  
-{% callout %}Para aprender qué más puedes hacer con tu sitio web y ganar una insignia digital, visita <b>http://dojo.soy/mini-html-begin</b> e intenta Beginner HTML CSS <br />Sushi Cards. Para ver esta tarjeta online o para imprimir más, visita <b>http://dojo.soy/mini-sushi-html</b> 
+{% callout %}Para aprender qué más puedes hacer con tu sitio web y ganar una insignia digital, visita <b>http://dojo.soy/mini-html-begin</b> e intenta Beginner HTML CSS Sushi Cards. Para ver esta tarjeta online o para imprimir más, visita <b>http://dojo.soy/mini-sushi-html</b> 
 {% endcallout %}
 
 

@@ -44,9 +44,9 @@
 
 13. In una nuova riga al di sotto del codice relativo a immagine e link, scrivi altra sintassi in modo da mostrare un’altra immagine con un link a un’altra pagina nuova. Non dimenticarti di caricare un file per l’immagine e di creare una pagina nuova! Aggiungi tutte le immagini e pagine che desideri. Quali animali si trovano nel tuo zoo?
 
-14. Non dimenticare ogni tanto di fare clic su **Save** (Salva) per accertarti di non perdere il lavoro creato. ![](TktZooExample.png)
+14. Non dimenticare ogni tanto di fare clic su **Save** (Salva) per accertarti di non perdere il lavoro creato. ![](TktZooExample.png) ![](whitespace_20_800.png)
  
-{% callout %}Per imparare cos’altro puoi realizzare con il tuo sito Web e guadagnarti un adesivo digitale, visita <b>http://dojo.soy/mini-html-begin</b> e prova le Sushi Card per principianti di linguaggio HTML e CSS<br />! Per visualizzare questa scheda online o per stamparne altre, visita <b>http://dojo.soy/mini-sushi-html</b> 
+{% callout %}Per imparare cos’altro puoi realizzare con il tuo sito Web e guadagnarti un adesivo digitale, visita <b>http://dojo.soy/mini-html-begin</b> e prova le Sushi Card per principianti di linguaggio HTML e CSS! Per visualizzare questa scheda online o per stamparne altre, visita <b>http://dojo.soy/mini-sushi-html</b> 
 {% endcallout %}
 
 
