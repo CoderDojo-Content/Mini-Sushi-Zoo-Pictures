@@ -30,7 +30,7 @@
 
 9. Vai al file `blank_page.html`. Vedrai il codice che ti serve per una pagina vuota. Copialo nel tuo nuovo file.
 
-10. Per aggiungere un paragrafo di testo, fai clic sullo spazio bianco tra i tag `<main></main>` e digita `<p></p>`. Digita il testo tra i tag, nel seguente modo: `<p>Questa pagina è tutta sui leoni!!!!</p>`. Puoi aggiungere quanti paragrafi desideri in questa modalità.
+10. Per aggiungere un paragrafo di testo, fai clic sullo spazio bianco tra i tag `<main></main>` e digita `<p></p>`. Scrivi il testo tra i tag, nel seguente modo: `<p>Questa pagina è tutta sui leoni!!!!</p>`. Puoi aggiungere quanti paragrafi desideri in questa modalità.
    * Prova anche ad aggiungere alcune immagini alla pagina!
 
 11. Torna a `index.html`. Individua il codice dell’immagine e inseriscilo tra la coppia di tag `<a></a>` nel seguente modo:
